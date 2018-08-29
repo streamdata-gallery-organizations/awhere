@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: aWhere
 x-complete: 1
@@ -428,4 +427,3 @@ paths:
       tags:
       - Agriculture
       - Token
----
